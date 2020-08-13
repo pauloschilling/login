@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Correctly identify whether the user is authenticated from the session profile object
+
 ## [2.36.0] - 2020-08-13
 
 ### Added
